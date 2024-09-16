@@ -1,4 +1,4 @@
-###Hi there, I'm Ken 👋
+## Hi there, I'm Ken 👋
 Welcome to my GitHub profile! I’m an 18-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
 
 - 🚀 About Me
@@ -15,7 +15,7 @@ Here are some of the technologies and tools I frequently use:
 - Frameworks & Engines: Unity, Godot
 - Tools: Visual Studio, Visual Studio Code, OBS, Streamlabs OBS, CapCut, Filmora, Krita, DaVinci Resolve, GIMP
 - Others: Excel, PowerPoint, Word, various AI tools (including ChatGPT), and logo-making AI
-##🕹️ Projects
+### 🕹️ Projects
 I’ve developed various games and applications, including:
 
 - RPG Games
@@ -24,9 +24,9 @@ I’ve developed various games and applications, including:
 - Survival Games
 Check out my games on itch.io!
 
-##📊 GitHub Stats
+### 📊 GitHub Stats
 
-##🔗 Links
+### 🔗 Links
 Portfolio Website
 YouTube Channel - Kentooo6
 Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don’t hesitate to reach out through GitHub!
