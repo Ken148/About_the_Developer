@@ -1,4 +1,7 @@
 ## Hi there, I'm Ken 👋
+
+![Kento_wm](https://github.com/user-attachments/assets/1d034d86-f9db-45dc-a4bb-6cc3e3ab90d0)
+
 Welcome to my GitHub profile! I’m an 18-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
 
 ### 🚀 About Me
