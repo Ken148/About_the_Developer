@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m an 18-year-old coder from Slovenia with a pa
 Here are some of the technologies and tools I frequently use:
 
 - Languages: HTML, CSS, PHP, C++, C#, a bit of Python
-- Frameworks & Engines: Unity, Godot
+- Frameworks & Engines: Unity, Godot, .NET Framework
 - Tools: Visual Studio, Visual Studio Code, OBS, Streamlabs OBS, CapCut, Filmora, Krita, DaVinci Resolve, GIMP
 - Others: Excel, PowerPoint, Word, various AI tools (including ChatGPT), and logo-making AI
 ### 🕹️ Projects
