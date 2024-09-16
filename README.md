@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m an 18-year-old coder from Slovenia with a pa
 - 🤔 Need help with 2D art for games? I’m looking for assistance in this area.
 - 📫 Contact me through my GitHub profile.
 - ⚡ Fun fact: I’m also a YouTuber under the name Kentooo6!
-###🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 Here are some of the technologies and tools I frequently use:
 
 - Languages: HTML, CSS, PHP, C++, C#, a bit of Python
