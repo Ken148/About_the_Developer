@@ -1,7 +1,7 @@
 ## Hi there, I'm Ken 👋
 Welcome to my GitHub profile! I’m an 18-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
 
-- 🚀 About Me
+### 🚀 About Me
 - 🔭 I’m currently working on the LAN-party-2024 school project.
 - 🌱 I’m learning Photoshop and Tailwind CSS.
 - 👯 I’m collaborating with others on my project but prefer to keep their details private.
