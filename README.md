@@ -20,7 +20,9 @@ Here are some of the technologies and tools I frequently use:
 I’ve developed various games and applications, including:
 
 - RPG Games
+  ShadowAlchemy: https://github.com/Ken148/Shadow
 - Spy Games
+  SilentHeist: https://github.com/Ken148/Silent_Heist
 - Crafting Games
 - Survival Games
 Check out my games on itch.io!
