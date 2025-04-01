@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I’m an 19-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
 
 ### 🚀 About Me
-- 🔭 I’m currently working on the LAN-party-2024 school project.
-- 🌱 I’m learning Photoshop and Tailwind CSS.
+- 🔭 I’m currently working on an AR app that lets you visualize furniture in your space before buying.
+- 🌱 I’m learning Blender and Android studios.
 - 👯 I’m collaborating with others on my project but prefer to keep their details private.
 - 🤔 Need help with 2D art for games? I’m looking for assistance in this area.
 - 📫 Contact me through my GitHub profile.
@@ -14,7 +14,7 @@ Here are some of the technologies and tools I frequently use:
 
 - Languages: HTML, CSS, PHP, C++, C#, a bit of Python
 - Frameworks & Engines: Unity, Godot, .NET Framework, TensorFlow
-- Tools: Visual Studio, Visual Studio Code, OBS, Streamlabs OBS, CapCut, Filmora, Krita, DaVinci Resolve, GIMP
+- Tools: Visual Studio, Visual Studio Code, OBS, Streamlabs OBS, CapCut, Filmora, Krita, DaVinci Resolve, GIMP, Photoshop, Adobe 
 - Others: Excel, PowerPoint, Word, various AI tools (including ChatGPT), and logo-making AI
 ### 🕹️ Projects
 I’ve developed various games and applications, including:
