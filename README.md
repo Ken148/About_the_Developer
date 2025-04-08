@@ -32,5 +32,6 @@ Check out my games on itch.io!
   https://www.youtube.com/channel/UCMi951GHFTALtWcrn3Av2kQ
 - See some of my designs:
   https://www.artstation.com/kentooo6
+- If you want to buy any designs in NFT form go to https://opensea.io/0x52A5B7612883De6009073584e14B456286142b5E
   
 Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don’t hesitate to reach out through GitHub!
