@@ -1,9 +1,9 @@
 ## Hi there, I'm Ken 👋
 
-Welcome to my GitHub profile! I’m an 19-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
+Welcome to my GitHub profile! I’m an 20-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
 
 ### 🚀 About Me
-- 🔭 I’m currently working on an AR app that lets you visualize furniture in your space before buying.
+- 🔭 I have been working on an AR app that lets you visualize furniture in your space before buying.
 - 🌱 I’m learning Blender and Android studios.
 - 👯 I’m collaborating with others on my project but prefer to keep their details private.
 - 🤔 Need help with 2D art for games? I’m looking for assistance in this area.
@@ -23,9 +23,6 @@ I’ve developed various games and applications, including:
   - ShadowAlchemy: https://github.com/Ken148/Shadow
 - Spy Games
   - SilentHeist: https://github.com/Ken148/Silent_Heist
-- Crafting Games
-- Survival Games
-Check out my games on itch.io!
 
 ### 🔗 Links
 - YouTube Channel - Kentooo6
