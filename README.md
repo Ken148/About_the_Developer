@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I’m an 20-year-old coder from Slovenia with a passion for game development and technology. Here you’ll find my projects and contributions, reflecting my journey in coding, game development, and beyond.
 
-[Resume_Ken_Turk_2025.pdf](https://github.com/user-attachments/files/25802143/Resume_Ken_Turk_2025.pdf)
-
 ### 🚀 About Me
 - 🔭 I have been working on an AR app that lets you visualize furniture in your space before buying.
 - 🌱 I’m learning Blender and Android studios.
